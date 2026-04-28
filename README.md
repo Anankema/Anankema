@@ -1,6 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Привет%2C+я+Самат+%F0%9F%91%8B;ML+Intern+%7C+Data+Science+Enthusiast;Python+%E2%80%A2+ML+%E2%80%A2+DL+%E2%80%A2+NLP" alt="Typing SVG" />
-</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
