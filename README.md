@@ -72,19 +72,20 @@ me.say_hi()
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">💳 Credit Card Fraud Detection</h3>
-      <p align="center">
-        <em>End-to-end антифрод-система для детекции мошеннических транзакций на датасете с экстремальным дисбалансом классов.</em>
-      </p>
-      <p align="center">
-        <b>📊 Результаты:</b><br/>
-        ROC-AUC ≈ <b>0.98</b> • PR-AUC ≈ <b>0.86</b><br/>
-        Recall ≈ <b>85%</b> • FPR < <b>1%</b>
-      </p>
-      <p align="center">
-        <code>Python</code> <code>LightGBM</code> <code>XGBoost</code> <code>Optuna</code> <code>SMOTE</code>
-      </p>
-    </td>
+  <h3 align="center">💳 Credit Card Fraud Detection</h3>
+  <p align="center">
+    <em>End-to-end антифрод-пайплайн на датасете с экстремальным дисбалансом (0.17% фрода). Сравнение 6 моделей, подбор порога под бизнес-метрику стоимости ошибок.</em>
+  </p>
+  <p align="center">
+    <b>📊 Результаты на test:</b><br/>
+    ROC-AUC <b>0.97</b> • PR-AUC <b>0.81</b><br/>
+    Recall <b>80%</b> • Precision <b>79%</b><br/>
+    <b>Снижение убытков на 72%</b> vs baseline
+  </p>
+  <p align="center">
+    <code>Python</code> <code>LightGBM</code> <code>XGBoost</code> <code>Optuna</code> <code>SMOTE</code> <code>SHAP</code>
+  </p>
+</td>
     <td width="50%">
       <h3 align="center">🔜 Coming soon...</h3>
       <p align="center">
